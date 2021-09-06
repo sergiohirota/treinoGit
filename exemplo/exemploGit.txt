@@ -7,8 +7,5 @@ filestream
 
 (teste)
 
-<<<<<<< HEAD
 alo
-=======
- quem e
->>>>>>> 22b05f6cb4608c8c9fa5e829818096b6d6b09dcd
+alo
